@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Web.UI", "Web.UI\Web.UI.csproj", "{086F59C5-D7D5-458D-97CD-01B2E1B2B198}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataAccessLayer", "DataAccessLayer\DataAccessLayer.csproj", "{879BF5CE-9D58-41C7-A15F-CCEB3A2DE899}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Anotacoes", "Anotacoes", "{63A762EC-C4B8-4E58-BA2D-2CE6DCCC527B}"
+	ProjectSection(SolutionItems) = preProject
+		Informacoes.txt = Informacoes.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{086F59C5-D7D5-458D-97CD-01B2E1B2B198}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{086F59C5-D7D5-458D-97CD-01B2E1B2B198}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{086F59C5-D7D5-458D-97CD-01B2E1B2B198}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{086F59C5-D7D5-458D-97CD-01B2E1B2B198}.Release|Any CPU.Build.0 = Release|Any CPU
+		{879BF5CE-9D58-41C7-A15F-CCEB3A2DE899}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{879BF5CE-9D58-41C7-A15F-CCEB3A2DE899}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{879BF5CE-9D58-41C7-A15F-CCEB3A2DE899}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{879BF5CE-9D58-41C7-A15F-CCEB3A2DE899}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {44A60F1F-84B1-44B0-92D8-50592C943BE5}
+	EndGlobalSection
+EndGlobal

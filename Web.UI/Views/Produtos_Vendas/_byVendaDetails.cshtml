@@ -1,0 +1,36 @@
+﻿@model IEnumerable<Produto_VendaVM>
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Produto.Name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.QuantidadeProduto)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ValorUnitario)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Total)
+        </th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Produto.Name)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.QuantidadeProduto)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ValorUnitario)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Total)
+        </td>
+    </tr>
+    }
+</table>

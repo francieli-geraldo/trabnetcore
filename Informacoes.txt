@@ -1,0 +1,17 @@
+Migrations on EF Core
+
+On Visual Studio open the Ferramentas > Gerenciador de Pacotes Nuget > Console do Gerenciador de Pacotes
+
+To add an migration use
+
+Add-Migration maiscadastros
+
+After you need to update the database
+
+Update-Database
+
+quando tenho na variavel variavelAsync devo colocar o await 
+
+
+Add-Migration  -Context 'ApplicationDbContext'
+Update-Database ApplicationDbContext -Context 'ApplicationDbContext'

@@ -1,0 +1,15 @@
+C:\Users\Fran\Documents\Visual Studio 2017\Projects\prof\MaisCadastros\Web.UI\bin\Debug\netcoreapp2.0\Web.UI.deps.json
+C:\Users\Fran\Documents\Visual Studio 2017\Projects\prof\MaisCadastros\Web.UI\bin\Debug\netcoreapp2.0\Web.UI.runtimeconfig.json
+C:\Users\Fran\Documents\Visual Studio 2017\Projects\prof\MaisCadastros\Web.UI\bin\Debug\netcoreapp2.0\Web.UI.runtimeconfig.dev.json
+C:\Users\Fran\Documents\Visual Studio 2017\Projects\prof\MaisCadastros\Web.UI\bin\Debug\netcoreapp2.0\Web.UI.dll
+C:\Users\Fran\Documents\Visual Studio 2017\Projects\prof\MaisCadastros\Web.UI\bin\Debug\netcoreapp2.0\Web.UI.pdb
+C:\Users\Fran\Documents\Visual Studio 2017\Projects\prof\MaisCadastros\Web.UI\obj\Debug\netcoreapp2.0\Web.UI.csprojAssemblyReference.cache
+C:\Users\Fran\Documents\Visual Studio 2017\Projects\prof\MaisCadastros\Web.UI\obj\Debug\netcoreapp2.0\Web.UI.csproj.CoreCompileInputs.cache
+C:\Users\Fran\Documents\Visual Studio 2017\Projects\prof\MaisCadastros\Web.UI\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Fran\Documents\Visual Studio 2017\Projects\prof\MaisCadastros\Web.UI\obj\Debug\netcoreapp2.0\Web.UI.AssemblyInfoInputs.cache
+C:\Users\Fran\Documents\Visual Studio 2017\Projects\prof\MaisCadastros\Web.UI\obj\Debug\netcoreapp2.0\Web.UI.AssemblyInfo.cs
+C:\Users\Fran\Documents\Visual Studio 2017\Projects\prof\MaisCadastros\Web.UI\obj\Debug\netcoreapp2.0\Web.UI.dll
+C:\Users\Fran\Documents\Visual Studio 2017\Projects\prof\MaisCadastros\Web.UI\obj\Debug\netcoreapp2.0\Web.UI.pdb
+C:\Users\Fran\Documents\Visual Studio 2017\Projects\prof\MaisCadastros\Web.UI\bin\Debug\netcoreapp2.0\DataAccessLayer.dll
+C:\Users\Fran\Documents\Visual Studio 2017\Projects\prof\MaisCadastros\Web.UI\bin\Debug\netcoreapp2.0\DataAccessLayer.pdb
+C:\Users\Fran\Documents\Visual Studio 2017\Projects\prof\MaisCadastros\Web.UI\obj\Debug\netcoreapp2.0\Web.UI.csproj.CopyComplete

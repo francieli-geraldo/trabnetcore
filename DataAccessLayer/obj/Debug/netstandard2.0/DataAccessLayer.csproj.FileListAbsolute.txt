@@ -1,0 +1,9 @@
+C:\Users\Fran\Documents\Visual Studio 2017\Projects\prof\MaisCadastros\DataAccessLayer\bin\Debug\netstandard2.0\DataAccessLayer.deps.json
+C:\Users\Fran\Documents\Visual Studio 2017\Projects\prof\MaisCadastros\DataAccessLayer\bin\Debug\netstandard2.0\DataAccessLayer.dll
+C:\Users\Fran\Documents\Visual Studio 2017\Projects\prof\MaisCadastros\DataAccessLayer\bin\Debug\netstandard2.0\DataAccessLayer.pdb
+C:\Users\Fran\Documents\Visual Studio 2017\Projects\prof\MaisCadastros\DataAccessLayer\obj\Debug\netstandard2.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Fran\Documents\Visual Studio 2017\Projects\prof\MaisCadastros\DataAccessLayer\obj\Debug\netstandard2.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\Fran\Documents\Visual Studio 2017\Projects\prof\MaisCadastros\DataAccessLayer\obj\Debug\netstandard2.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\Fran\Documents\Visual Studio 2017\Projects\prof\MaisCadastros\DataAccessLayer\obj\Debug\netstandard2.0\DataAccessLayer.dll
+C:\Users\Fran\Documents\Visual Studio 2017\Projects\prof\MaisCadastros\DataAccessLayer\obj\Debug\netstandard2.0\DataAccessLayer.pdb
+C:\Users\Fran\Documents\Visual Studio 2017\Projects\prof\MaisCadastros\DataAccessLayer\obj\Debug\netstandard2.0\DataAccessLayer.csprojAssemblyReference.cache
