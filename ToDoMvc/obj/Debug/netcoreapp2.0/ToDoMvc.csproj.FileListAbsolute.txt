@@ -1,0 +1,13 @@
+C:\Users\Fran\Desktop\faculdade\Trabalho Interdiciplinar\logoarea\logoarea (2)\source\ToDoMvc\obj\Debug\netcoreapp2.0\ToDoMvc.csprojAssemblyReference.cache
+C:\Users\Fran\Desktop\faculdade\Trabalho Interdiciplinar\logoarea\logoarea (2)\source\ToDoMvc\obj\Debug\netcoreapp2.0\ToDoMvc.csproj.CoreCompileInputs.cache
+C:\Users\Fran\Desktop\faculdade\Trabalho Interdiciplinar\logoarea\logoarea (2)\source\ToDoMvc\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Fran\Desktop\faculdade\Trabalho Interdiciplinar\logoarea\logoarea (2)\source\ToDoMvc\obj\Debug\netcoreapp2.0\ToDoMvc.AssemblyInfoInputs.cache
+C:\Users\Fran\Desktop\faculdade\Trabalho Interdiciplinar\logoarea\logoarea (2)\source\ToDoMvc\obj\Debug\netcoreapp2.0\ToDoMvc.AssemblyInfo.cs
+C:\Users\Fran\Desktop\faculdade\Trabalho Interdiciplinar\logoarea\logoarea (2)\source\ToDoMvc\bin\Debug\netcoreapp2.0\app.db
+C:\Users\Fran\Desktop\faculdade\Trabalho Interdiciplinar\logoarea\logoarea (2)\source\ToDoMvc\bin\Debug\netcoreapp2.0\ToDoMvc.deps.json
+C:\Users\Fran\Desktop\faculdade\Trabalho Interdiciplinar\logoarea\logoarea (2)\source\ToDoMvc\bin\Debug\netcoreapp2.0\ToDoMvc.runtimeconfig.json
+C:\Users\Fran\Desktop\faculdade\Trabalho Interdiciplinar\logoarea\logoarea (2)\source\ToDoMvc\bin\Debug\netcoreapp2.0\ToDoMvc.runtimeconfig.dev.json
+C:\Users\Fran\Desktop\faculdade\Trabalho Interdiciplinar\logoarea\logoarea (2)\source\ToDoMvc\bin\Debug\netcoreapp2.0\ToDoMvc.dll
+C:\Users\Fran\Desktop\faculdade\Trabalho Interdiciplinar\logoarea\logoarea (2)\source\ToDoMvc\bin\Debug\netcoreapp2.0\ToDoMvc.pdb
+C:\Users\Fran\Desktop\faculdade\Trabalho Interdiciplinar\logoarea\logoarea (2)\source\ToDoMvc\obj\Debug\netcoreapp2.0\ToDoMvc.dll
+C:\Users\Fran\Desktop\faculdade\Trabalho Interdiciplinar\logoarea\logoarea (2)\source\ToDoMvc\obj\Debug\netcoreapp2.0\ToDoMvc.pdb

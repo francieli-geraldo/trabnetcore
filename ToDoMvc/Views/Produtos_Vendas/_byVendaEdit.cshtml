@@ -1,0 +1,88 @@
+﻿@model IEnumerable<ToDoMvc.Models.View.Produto_VendaVM>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Produto)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.QuantidadeProduto)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ValorUnitario)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Total)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Produto.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.QuantidadeProduto)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ValorUnitario)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Total)
+                </td>
+                <td>
+                    <a asp-action="Edit" asp-controller="Produto_Vendas" asp-route-id="@item.Id" href="#" data-toggle="modal" data-target="#produto_vendaModal" data-url="@Url.Action("Edit", "Produto_Vendas", new { id = item.Id})">Edit</a> |
+                    <a asp-action="Delete" asp-controller="Produto_Vendas" asp-route-id="@item.Id" href="#" data-toggle="modal" data-target="#produto_vendaModal" data-url="@Url.Action("Delete", "Produto_Vendas", new { id = item.Id})">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<div class="modal fade" id="produto_vendaModal" tabindex="-1" role="dialog" aria-labelledby="modal">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                <h4 class="modal-title" id="modal">Produto_Venda</h4>
+            </div>
+            <div class="modal-body" id="produto_vendaModalBody"></div>
+        </div>
+    </div>
+</div>
+
+
+
+@section Scripts {
+    <script>
+        $(document).ready(function () {
+            var $modal = $('#produto_vendaModal');
+
+            $modal.on('show.bs.modal', function (event) {
+                var button = $(event.relatedTarget) // Button that triggered the modal
+                var url = button.data('url') // Extract info from data-* attributes
+                var title = button.text();
+                $modal.find('.modal-title').text(title);
+                $modal.find('.modal-body').load(url);
+            });
+
+           @*@if (!Model.Closed)
+           {
+               <text>
+            var $closed = $("#Close");
+            $("#btnClose").click(function () {
+                $closed.val("True");
+            });
+                </text>
+           }*@
+        })
+    </script>
+
+}
